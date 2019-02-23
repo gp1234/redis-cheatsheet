@@ -1,0 +1,1 @@
+console.log("Redis is cool");
